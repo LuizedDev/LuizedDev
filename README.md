@@ -1,16 +1,8 @@
-<h2>Olá sou <strong>Luized</strong>Dev ✌</h2>
-
-
-
-
-<div style="display: flex" align="center">
+## Oiii eu sou Luiz Eduardo, Dev Front-end
+<div align="center">
   <a href="https://github.com/LuizedDev">
-    <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?      username=LuizedDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </div> 
-    <div>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizedDev&layout=compact&langs_count=7&theme=algolia"/>
-    </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizedDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizedDev&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
