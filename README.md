@@ -1,10 +1,6 @@
-### <h2>Olá sou LuizedDev ✌</h2>
+<h2>Olá sou <strong>Luized</strong>Dev ✌</h2>
 
-- 🔭 Hoje trabalhando com Front-end
-- 🌱 Estudando JavaScript, TypeScript com React
-- 👯 Procurando Trabalho na Área
-- 📫 Contate-me no email: lzeduardo00@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 
 <div align="center">
