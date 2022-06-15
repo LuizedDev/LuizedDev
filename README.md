@@ -1,4 +1,4 @@
-## Oiii eu sou Luiz Eduardo, Dev Front-end
+## Oiii eu sou Luiz Eduardo, Dev Front-end ✌
 <div align="center">
   <a href="https://github.com/LuizedDev">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LuizedDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
