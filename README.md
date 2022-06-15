@@ -1,4 +1,3 @@
-### Olá! Sou LuizedDev 👋
 
 <div align="center">
   <a href="https://github.com/LuizedDev">
